@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03ab1752.css",
+    "main.js": "/static/js/main.20b81318.js",
+    "static/js/633.4a0babba.chunk.js": "/static/js/633.4a0babba.chunk.js",
+    "static/media/aarzoo2.jpeg": "/static/media/aarzoo2.0dd158473feca92c6367.jpeg",
+    "static/media/aarzoo1.jpeg": "/static/media/aarzoo1.9c98e180387cbc996690.jpeg",
+    "static/media/aarzoo4.jpeg": "/static/media/aarzoo4.2eaacb23e9a792b7ddfc.jpeg",
+    "static/media/aarzoo7.jpeg": "/static/media/aarzoo7.46981d3a600794b3741a.jpeg",
+    "static/media/aarzoo9.jpeg": "/static/media/aarzoo9.e6e94a4f3a1e1e10aa05.jpeg",
+    "static/media/aarzoo8.jpeg": "/static/media/aarzoo8.2f94f158c894f85b7fa7.jpeg",
+    "static/media/aarzoo6.jpeg": "/static/media/aarzoo6.940f1f2a2c119d8e3481.jpeg",
+    "static/media/aarzoo3.jpeg": "/static/media/aarzoo3.92f49f2cfc8a285eb233.jpeg",
+    "static/media/heartware_sensor.png": "/static/media/heartware_sensor.9dc55f9b512a88b88454.png",
+    "static/media/selfie_og.png": "/static/media/selfie_og.fbf54899007e3c2fd1c4.png",
+    "static/media/aarzoo5.jpeg": "/static/media/aarzoo5.ed69e15468258226e8c5.jpeg",
+    "static/media/milkitsolution.png": "/static/media/milkitsolution.af0b4f85ea8eaec660fb.png",
+    "static/media/heartware_phone.png": "/static/media/heartware_phone.86e166158f4003dff8e7.png",
+    "static/media/woman-app-developer.jpg": "/static/media/woman-app-developer.6c775da611b69490d483.jpg",
+    "static/media/IMG_7235.jpg": "/static/media/IMG_7235.a42a4380c94395dafa19.jpg",
+    "static/media/heartware_drawing.png": "/static/media/heartware_drawing.961eb9862f16ae677323.png",
+    "static/media/aarzoo10.jpg": "/static/media/aarzoo10.5755188031f48605427a.jpg",
+    "static/media/discs.png": "/static/media/discs.f2860edec1397e37bc78.png",
+    "static/media/stetho.png": "/static/media/stetho.8df2444d0be7a6f47006.png",
+    "static/media/film.png": "/static/media/film.ec6c8028a3c6747fa679.png",
+    "static/media/Software_Engineer_Aarzoo_Chennan (2).pdf": "/static/media/Software_Engineer_Aarzoo_Chennan (2).2de9b6b4328ef5c3231f.pdf",
+    "static/media/baby.png": "/static/media/baby.b2a2d7011c1cb7da7090.png",
+    "static/media/cochlear.png": "/static/media/cochlear.1d24fe8d96ae281f3ab4.png",
+    "static/media/blob-og.png": "/static/media/blob-og.ba1b877520f60a16eb93.png",
+    "static/media/film_roll.png": "/static/media/film_roll.065633c9eb9fb7a3edd5.png",
+    "index.html": "/index.html",
+    "main.03ab1752.css.map": "/static/css/main.03ab1752.css.map",
+    "main.20b81318.js.map": "/static/js/main.20b81318.js.map",
+    "633.4a0babba.chunk.js.map": "/static/js/633.4a0babba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03ab1752.css",
+    "static/js/main.20b81318.js"
+  ]
+}
