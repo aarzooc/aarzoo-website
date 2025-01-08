@@ -448,7 +448,7 @@ max-height: calc(100vh - 210px);
   color: rgb(0, 0, 0);
   font-weight: bold;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Optional shadow to make text stand out */
-  z-index: 10;  /* Ensure title is above the card */
+  z-index: 2;  /* Ensure title is above the card */
   pointer-events: none; /* Prevents title from interfering with hover */
 }
 
