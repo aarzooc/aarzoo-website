@@ -333,8 +333,8 @@ html {
 }
 
 .cancel-button {
-  background-color: #ffffff;
-  border-color: #ffffff;
+  background-color: transparent;
+  border-color:transparent;
   width:25px;
   height: 25px;
   left: 97%;
@@ -439,10 +439,10 @@ max-height: calc(100vh - 210px);
 
 .flip-card-titles {
   position: absolute; /* Position it over the card's front */
-  top: 90%;  /* Vertically center the title */
-  left: 50%; /* Horizontally center the title */
+  top: 80%;  /* Vertically center the title */
+  left: 5%; /* Horizontally center the title */
   width: 100%; /* Make the title span the width of the card */
-  transform: translate(-50%, -50%); /* Offset by 50% of the element’s width and height */
+  /* transform: translate(-50%, -50%); Offset by 50% of the element’s width and height */
   font-size: 30px;
   font-family: 'Abril Fatface', serif;
   color: rgb(0, 0, 0);
@@ -788,6 +788,16 @@ margin-right: auto;
   }
   .cancel-button {
     left: 90%;
+  }
+
+  .about-me-container{
+    transform:none;
+    opacity: 1;
+  }
+
+  .about-me-image {
+    transform: none;
+    opacity: 1;
   }
 
 }

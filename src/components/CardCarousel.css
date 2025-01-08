@@ -202,6 +202,8 @@
       font-size: calc(0.5rem + 2vw);
       padding-left: 10px;
       margin-top: 5px !important;
+      transform: none;
+      opacity: 1;
     }
 
     .experience-answers{
@@ -210,25 +212,35 @@
       padding-right: 5px ;
       margin-top: 35px;
       color: #EA5A28 !important;
+      transform: none;
+      opacity: 1;
 
     }
 
     .experience-time{
       font-size: calc(0.4em + 2vw) !important;
       padding-left: 10px;
+      transform: none;
+      opacity: 1;
     }
 
     .experience-technologies{
       font-size: calc(0.4em + 2vw) !important;
       padding-left: 10px;
+      transform: none;
+      opacity: 1;
     }
     .experience-description li{
       font-size: calc(0.4em + 2vw) !important;
       padding-left: 10px;
+      transform: none;
+      opacity: 1;
     }
     .top-bar{
       height: 30px !important;
       position: fixed;
+      transform: none;
+      opacity: 1;
     }
 
     
